@@ -4,8 +4,8 @@ Documentation, notes, labs, and key skills from completing the Google Cybersecur
 
 
 # Google Cybersecurity Professional Certificate  
-**Completed:** Month Year  
-**Student:** [His Name]
+**Completed:** November 2025  
+**Student:** Gideon Allred
 
 This repository contains my notes, labs, and practice work from the Google Cybersecurity Professional Certificate. I documented what I learned in each course and included examples of hands-on skills, security concepts, and tools I practiced using.
 
