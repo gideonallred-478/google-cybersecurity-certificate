@@ -1,13 +1,9 @@
-# google-cybersecurity-certificate
-Topics learned, favorite/hardest part, and key skills gained from completing the Google Cybersecurity Professional Certificate.
-
-
 
 # Google Cybersecurity Professional Certificate  
 **Completed:** November 2025  
 **Student:** Gideon Allred
 
-This repository contains my notes, labs, and practice work from the Google Cybersecurity Professional Certificate. I documented what I learned in each course and included examples of hands-on skills, security concepts, and tools I practiced using.
+This repository contains what I learned in each course, including my favorite/hardest parts and the key skills I gained from completing the Google Cybersecurity Professional Certificate.
 
 ---
 
@@ -93,7 +89,7 @@ The program covered:
 - Variables, loops, functions  
 - File handling  
 - Using Python to automate security tasks
-- Faviorte: conditionals and loops.
+- Favorite: conditionals and loops.
 - Hardest: syntax when coding
 ---
 
