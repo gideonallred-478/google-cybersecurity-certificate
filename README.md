@@ -11,7 +11,7 @@ This repository contains my notes, labs, and practice work from the Google Cyber
 
 ---
 
-## 📂 Certificate Overview
+##  Certificate Overview
 
 The program covered:
 
@@ -25,7 +25,7 @@ The program covered:
 
 ---
 
-## 📘 Courses & Documentation
+##  Courses & Documentation
 
 ### 1. Foundations of Cybersecurity  
 **Topics learned:**  
@@ -84,7 +84,7 @@ The program covered:
 
 ---
 
-## 🚀 Skills Gained
+##  Skills Gained
 
 - Linux command-line proficiency  
 - Basic Python scripting for security tasks  
@@ -95,7 +95,7 @@ The program covered:
 
 ---
 
-## 🎓 What's Next?
+##  What's Next?
 
 I’m continuing my cybersecurity learning journey through:
 
