@@ -32,6 +32,8 @@ The program covered:
 - CIA triad (Confidentiality, Integrity, Availability)  
 - Threat actors, attack types  
 - Core security roles (SOC analyst, pentester, etc.)
+- Favorite: The types of roles I can get into
+- Hardest: CIA triad
 
 ---
 
@@ -40,6 +42,8 @@ The program covered:
 - NIST CSF, ISO 27001  
 - Risk assessments & controls  
 - Security policies
+- Favorite: SEIM and playbooks 
+- Hardest: Security Audits
 
 ---
 
@@ -48,6 +52,8 @@ The program covered:
 - Network basics (TCP/IP, OSI model)  
 - Firewalls, VPNs, IDS/IPS  
 - Network attack types
+- Favorite: Learning and identifying security measures and protocols 
+- Hardest: learning OS hardening and how it works
 
 ---
 
@@ -56,6 +62,8 @@ The program covered:
 - Linux commands (grep, ps, chmod, etc.)  
 - File permissions  
 - SQL queries for security investigations
+- Favorite: Learning how the OS interacts
+- Hardest: using the command shell correctly
 
 ---
 
@@ -64,6 +72,8 @@ The program covered:
 - Vulnerability scans  
 - CVSS scoring  
 - OWASP Top 10
+- Favorite: Identifying threats
+- Hardest: identifying data stages (at rest, transit, in use)
 
 ---
 
@@ -73,6 +83,8 @@ The program covered:
 - Event logs  
 - Incident response stages  
 - Using Chronicle for detection
+- Favorite: learning all the different attacks
+- Hardest: Chronicle
 
 ---
 
@@ -81,7 +93,8 @@ The program covered:
 - Variables, loops, functions  
 - File handling  
 - Using Python to automate security tasks
-
+- Faviorte: conditionals and loops.
+- Hardest: syntax when coding
 ---
 
 ##  Skills Gained
@@ -99,7 +112,5 @@ The program covered:
 
 I’m continuing my cybersecurity learning journey through:
 
-- CTF challenges  
-- Building a home cyber lab  
-- Creating small security automation tools  
-- Starting a GitHub portfolio for employers and colleges 
+- CTF challenges
+- Big project 
