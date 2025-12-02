@@ -1,5 +1,5 @@
 # google-cybersecurity-certificate
-Documentation, notes, labs, and key skills from completing the Google Cybersecurity Professional Certificate.
+Topics learned, favorite/hardest part, and key skills gained from completing the Google Cybersecurity Professional Certificate.
 
 
 
